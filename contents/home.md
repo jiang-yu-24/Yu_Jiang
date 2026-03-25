@@ -3,18 +3,13 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>e1348927@u.nus.edu</code>  
+<code>m15817634809@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**National University of Singapore**, Master of Science (Data Science and Machine Learning) (2024 – 2026)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Nanjing University**, Bachelor of Science (Applied Physics) (2020 – 2024)   
 
 #### Research Interests  
-XX, XX, XX, XX.
+LLM Interpretation & Application, AI for Science, Data Mining
