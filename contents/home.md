@@ -1,4 +1,4 @@
-[!\[jiang-yu-24\](https://img.shields.io/badge/jiang-yu-24-github-blue?logo=github null)](https://github.com/XX)
+[!\[jiang-yu-24\](https://img.shields.io/badge/jiang-yu-24-github-blue?logo=github null)](https://github.com/jiang-yu-24)
 
 #### Email
 
