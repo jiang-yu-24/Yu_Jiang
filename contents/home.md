@@ -1,6 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
-
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+[![jiang-yu-24](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
 #### Email  
 <code>e1348927@u.nus.edu</code>  
